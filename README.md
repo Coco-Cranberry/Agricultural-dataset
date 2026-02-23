@@ -3,12 +3,16 @@
 ## IP102
 The IP102 used in this study is available at:
 - Dataset page / download link: [[https://drive.google.com/file/d/1JTAhENcpZyIGJF1XCSRHircmzXS6kxjL/view?usp=sharing]](https://drive.google.com/file/d/1F-5uCNv3MrDTCXjRbwA3rrXXAkRAUJOB/view?usp=sharing)
-- Project repository: https://github.com/Coco-Cranberry/Agricultural-dataset
+- Project repository: [https://github.com/Coco-Cranberry/Agricultural-dataset](https://github.com/xpwu95/IP102)
 
 ## IP102-lowS
 The IP102-lowS used in this study is available at:
 - Dataset page / download link: [[https://drive.google.com/file/d/1JTAhENcpZyIGJF1XCSRHircmzXS6kxjL/view?usp=sharing]](https://drive.google.com/file/d/1guuzTnwsWW5aICVg5uFjjrHkEh8-JMtW/view?usp=sharing)
 - Project repository: https://github.com/Coco-Cranberry/Agricultural-dataset
+
+## LeAF
+The LeAF used in this study is available at:
+- Dataset page / download link: https://data.aifarms.org/view/leaf_pest_detection
 
 ## MCP15_v1.0
 ### Dataset Availability
